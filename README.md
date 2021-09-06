@@ -10,4 +10,6 @@ the color of the text box changes with time.
 
 One the save button is clicked, information entered inside the text box will remain there even if the page is refreshed.
 
+deployed link https://jakefay.github.io/Jakes-Work-Day-Scheduler/
+
 <img src="./assets/WDS-screenshot.jpg">
